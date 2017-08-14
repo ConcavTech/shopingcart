@@ -2,5 +2,6 @@ server:
   port: 8081
 
 spring:
-  application:
-    name: category
+  data:
+    rest:
+      basePath: /api/v1
