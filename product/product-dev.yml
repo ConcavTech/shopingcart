@@ -1,0 +1,7 @@
+server:
+  port: 9082
+
+spring:
+  data:
+    rest:
+      basePath: /api/v1
