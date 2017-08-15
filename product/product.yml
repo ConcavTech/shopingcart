@@ -1,7 +1,0 @@
-server:
-  port: 8082
-
-spring:
-  data:
-    rest:
-      basePath: /api/v1
