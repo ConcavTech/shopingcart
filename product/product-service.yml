@@ -1,0 +1,11 @@
+server:
+  port: 8082
+
+spring:
+  data:
+    rest:
+      basePath: /api/v1
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9000/eureka/  
